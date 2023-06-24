@@ -4,5 +4,6 @@ The website checks if there is a created profile. If the user hasn't created one
 Another functionality is the profile details page where the user can edit and delete the whole profile. When the profile is deleted, all the fruits dissapear. This is because the relation between the two models through a "ForeignKey".  
 
 The index page:
+
 <img width="650" alt="image" src="https://github.com/Max-Vassilev/Django-Fruit-Manager/assets/106106321/8b402f7b-40af-4d07-99fb-da61a7225ad3">
 
