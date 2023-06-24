@@ -17,6 +17,7 @@ The "profile dashboard" without any fruits:
 <img width="700" alt="image" src="https://github.com/Max-Vassilev/Django-Fruit-Manager/assets/106106321/d837cfbd-b84c-49a5-bf6f-dc3e349b100e">
 
 The "add fruit" functionality":
+
 <img width="700" alt="image" src="https://github.com/Max-Vassilev/Django-Fruit-Manager/assets/106106321/9945608b-f933-4650-ba55-af723a962f2b">
 
 
