@@ -38,6 +38,11 @@ The "profile dashboard" with added fruits:
 
 <img width="700" alt="image" src="https://github.com/Max-Vassilev/Django-Fruit-Manager/assets/106106321/be11d2af-7d11-42ef-940d-dbde8f352858">
 
+"Profile details" page:
+
+<img width="700" alt="image" src="https://github.com/Max-Vassilev/Django-Fruit-Manager/assets/106106321/92a15a7b-8f81-4bb0-92a9-a0091c214e5e">
+
+
 
 
 
