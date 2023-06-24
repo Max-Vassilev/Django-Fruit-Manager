@@ -26,4 +26,18 @@ The "profile dashboard" with added fruits:
 <img width="700" alt="image" src="https://github.com/Max-Vassilev/Django-Fruit-Manager/assets/106106321/7d9ae663-e49d-4567-9d0e-1d52b05a860f">
 
 
+"Fruit details" page:
+
+<img width="700" alt="image" src="https://github.com/Max-Vassilev/Django-Fruit-Manager/assets/106106321/960b4fca-f848-47f8-8e9b-e2d401c73276">
+
+"Fruit edit":
+
+<img width="700" alt="image" src="https://github.com/Max-Vassilev/Django-Fruit-Manager/assets/106106321/a04a0d8e-2740-4709-8d2a-4d6a19bc83f2">
+
+"Fruit delete":
+
+<img width="700" alt="image" src="https://github.com/Max-Vassilev/Django-Fruit-Manager/assets/106106321/be11d2af-7d11-42ef-940d-dbde8f352858">
+
+
+
 
